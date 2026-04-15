@@ -3,4 +3,4 @@ from groq import Groq
 
 st.set_page_config("pragyanAI Content Generator", layout="wide")
 st.title("pragyan_AI - Content Generator")
-st.image("pragyan_AI_
+st.image("Screenshot (11).png")
